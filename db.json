@@ -1,0 +1,25 @@
+{
+"products":
+  [
+    {"id":1,"nama":"Pallas's fish eagle","category":"Purple"},
+    {"id":2,"nama":"Lion, galapagos sea","category":"Red"},
+    {"id":3,"nama":"Kinkajou","category":"Turquoise"},
+    {"id":4,"nama":"Hyrax","category":"Blue"},
+    {"id":5,"nama":"Black curlew","category":"Turquoise"},
+    {"id":6,"nama":"Barrows goldeneye","category":"Fuscia"},
+    {"id":7,"nama":"Burmese black mountain tortoise","category":"Pink"},
+    {"id":8,"nama":"Australian sea lion","category":"Fuscia"},
+    {"id":9,"nama":"Defassa waterbuck","category":"Puce"},
+    {"id":10,"nama":"Wambenger, red-tailed","category":"Maroon"},
+    {"id":11,"nama":"Hornbill, leadbeateri's ground","category":"Red"},
+    {"id":12,"nama":"Snake, buttermilk","category":"Maroon"},
+    {"id":13,"nama":"Penguin, fairy","category":"Pink"},
+    {"id":14,"nama":"Lion, asian","category":"Goldenrod"},
+    {"id":15,"nama":"Cormorant, javanese","category":"Khaki"},
+    {"id":16,"nama":"Blue waxbill","category":"Blue"},
+    {"id":17,"nama":"Red-winged hawk (unidentified)","category":"Maroon"},
+    {"id":18,"nama":"Klipspringer","category":"Purple"},
+    {"id":19,"nama":"Colobus, black and white","category":"Mauv"},
+    {"id":20,"nama":"Moose","category":"Teal"}
+  ]
+}
